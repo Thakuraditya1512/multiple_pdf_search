@@ -7,11 +7,12 @@ A simple Streamlit application that allows users to ask questions about multiple
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Thakuraditya1512/multiple_pdf_search.git
+   cd multiple_pdf_search
 
 
    pip install -r requirements.txt
+
 
 
 Set up environment variables:
@@ -19,13 +20,14 @@ Set up environment variables:
 Create a .env file in the root directory and add your OpenAI API key:
 
 2. makefile
-'''bash 
+ ```bash 
    OPENAI_API_KEY=your_api_key_here
 
-
-Usage
+3. Usage
 Run the application using the following command:
 
-bash
+```bash
 
-streamlit run your_app_name.py
+     streamlit run app.py
+
+

@@ -18,9 +18,9 @@ Set up environment variables:
 
 Create a .env file in the root directory and add your OpenAI API key:
 
-makefile
-
-OPENAI_API_KEY=your_api_key_here
+2. makefile
+'''bash 
+   OPENAI_API_KEY=your_api_key_here
 
 
 Usage
